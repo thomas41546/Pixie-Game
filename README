@@ -1,0 +1,5 @@
+Object of the game is to click on sections of the grid to freeze/unfreeze pixels.
+And to eventually herd them into the green boundary.
+
+
+To compile this you will need OSX and libsdl from macports.
